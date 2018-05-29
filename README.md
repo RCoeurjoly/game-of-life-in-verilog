@@ -1,4 +1,8 @@
 # Game of Life in Verilog
+
+This is intended to be a port from Spartan-6 to Lattice 1k.
+
+I plan to remove the seven-segment display, buttons and all other inputs and outputs, leaving only the VGA driver. 
 ======
 <b>Use the <i>seven-segment digital tubes</i> on the Spartan-6 platform to represent the postion x, y of present grid (in decimal form 0-15).</b> 
 
